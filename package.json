@@ -1,0 +1,14 @@
+{
+  "name": "onit-test",
+  "version": "1.0.0",
+  "main": "app.js",
+  "author": "Sean",
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
